@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                        | Difficulty   | Practice                                                                                                                        |
-|---------|---------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                       | Difficulty   | Practice                                                                                                                        |
+|---------|--------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 🎯 Enchanted Forest Exploration with Hadoop | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-enchanted-forest-exploration-with-hadoop-272049'>Start Challenge</a> |
 |      02 | 🎯 Space City HDFS Directory Creation       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-space-city-hdfs-directory-creation-272051'>Start Challenge</a>       |
 |      03 | 🎯 Retrieve Stolen Data with Hadoop         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-retrieve-stolen-data-with-hadoop-272038'>Start Challenge</a>         |
