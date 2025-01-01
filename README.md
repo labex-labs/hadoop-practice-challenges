@@ -25,20 +25,20 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                       | Difficulty   | Practice                                                                                                                        |
-|---------|--------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 Enchanted Forest Exploration with Hadoop | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-enchanted-forest-exploration-with-hadoop-272049'>Start Challenge</a> |
-|      02 | 🎯 Space City HDFS Directory Creation       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-space-city-hdfs-directory-creation-272051'>Start Challenge</a>       |
-|      03 | 🎯 Retrieve Stolen Data with Hadoop         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-retrieve-stolen-data-with-hadoop-272038'>Start Challenge</a>         |
-|      04 | 🎯 HDFS Copy Mastery in Jungle              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-hdfs-copy-mastery-in-jungle-272042'>Start Challenge</a>              |
-|      05 | 🎯 Interstellar Data Transfer Using Hadoop  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-interstellar-data-transfer-using-hadoop-272054'>Start Challenge</a>  |
-|      06 | 🎯 Ninja Scroll Transfer Journey            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-ninja-scroll-transfer-journey-272048'>Start Challenge</a>            |
-|      07 | 🎯 Magical Hadoop File Moves                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-magical-hadoop-file-moves-272053'>Start Challenge</a>                |
-|      08 | 🎯 Hadoop Chgrp Adventure                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-hadoop-chgrp-adventure-272039'>Start Challenge</a>                   |
-|      09 | 🎯 Hadoop Enchanted Keeper Training         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-hadoop-enchanted-keeper-training-272058'>Start Challenge</a>         |
-|      10 | 🎯 Hadoopville Mysteries Unleashed          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-hadoopville-mysteries-unleashed-272040'>Start Challenge</a>          |
-|      11 | 🎯 Deep Sea HDFS Chown Adventure            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-deep-sea-hdfs-chown-adventure-272041'>Start Challenge</a>            |
-|      12 | 🎯 Hadoop Galactic Append Operation         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/hadoop-hadoop-galactic-append-operation-272037'>Start Challenge</a>         |
+|   Index | Name                                       | Difficulty   | Practice                                                                                                                   |
+|---------|--------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🎯 Enchanted Forest Exploration with Hadoop | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-enchanted-forest-exploration-with-hadoop-272049'>Start Challenge</a> |
+|      02 | 🎯 Space City HDFS Directory Creation       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-space-city-hdfs-directory-creation-272051'>Start Challenge</a>       |
+|      03 | 🎯 Retrieve Stolen Data with Hadoop         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-retrieve-stolen-data-with-hadoop-272038'>Start Challenge</a>         |
+|      04 | 🎯 HDFS Copy Mastery in Jungle              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-hdfs-copy-mastery-in-jungle-272042'>Start Challenge</a>              |
+|      05 | 🎯 Interstellar Data Transfer Using Hadoop  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-interstellar-data-transfer-using-hadoop-272054'>Start Challenge</a>  |
+|      06 | 🎯 Ninja Scroll Transfer Journey            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-ninja-scroll-transfer-journey-272048'>Start Challenge</a>            |
+|      07 | 🎯 Magical Hadoop File Moves                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-magical-hadoop-file-moves-272053'>Start Challenge</a>                |
+|      08 | 🎯 Hadoop Chgrp Adventure                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-hadoop-chgrp-adventure-272039'>Start Challenge</a>                   |
+|      09 | 🎯 Hadoop Enchanted Keeper Training         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-hadoop-enchanted-keeper-training-272058'>Start Challenge</a>         |
+|      10 | 🎯 Hadoopville Mysteries Unleashed          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-hadoopville-mysteries-unleashed-272040'>Start Challenge</a>          |
+|      11 | 🎯 Deep Sea HDFS Chown Adventure            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-deep-sea-hdfs-chown-adventure-272041'>Start Challenge</a>            |
+|      12 | 🎯 Hadoop Galactic Append Operation         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/hadoop-hadoop-galactic-append-operation-272037'>Start Challenge</a>         |
 
 ## More
 
